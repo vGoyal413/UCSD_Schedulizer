@@ -1,5 +1,5 @@
 # UCSD_Schedulizer
-A command-line tool that takes a class schedule and generates a file that can be imported to Google Calendar - DSC 190 final project.
+A command-line tool that takes a class schedule and generates a file that can be imported to Google Calendar.
 
 ## HOW TO USE:
 ### Step 1: Install:
@@ -24,7 +24,7 @@ Days can be any combination of: 'M','Tu','W','Th','F'
 
 ### Step 3: Run the program:
 ```bash
-ucsd - schedulizer -i schedule.txt -s [start_date] -e [end_date]
+schedulizer -i schedule.txt -s [start_date] -e [end_date]
 ```
 This will write `schedule.ics` in your current directory.
 
