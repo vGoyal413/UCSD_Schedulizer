@@ -1,7 +1,7 @@
 # UCSD_Schedulizer
 A command-line tool that takes a class schedule and generates a file that can be imported to Google Calendar.
 
-## HOW TO USE:
+## USAGE:
 ### Step 1: Install:
 ```bash
 uv add "git+https://github.com/vGoyal413/UCSD_Schedulizer.git"
