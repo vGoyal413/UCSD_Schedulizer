@@ -1,0 +1,19 @@
+[project]
+name = "ucsd-schedulizer"
+version = "0.1.0"
+description = "A command-line tool that takes a class schedule and generates a file that can be imported to Google Calendar - DSC 190 final project."
+readme = "README.md"
+authors = [
+    { name = "vGoyal413", email = "vedikagoyal413@gmail.com" }
+]   
+requires-python = ">=3.13"
+dependencies = [
+    "icalendar>=7.1.2",
+]
+
+[project.scripts]
+ucsd-schedulizer = "ucsd_schedulizer.main:main"
+
+[build-system]
+requires = ["uv_build>=0.11.11,<0.12.0"]
+build-backend = "uv_build"
