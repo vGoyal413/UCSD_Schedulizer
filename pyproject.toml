@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-ucsd-schedulizer = "ucsd_schedulizer.main:main"
+schedulizer = "ucsd_schedulizer.main:main"
 
 [build-system]
 requires = ["uv_build>=0.11.11,<0.12.0"]
