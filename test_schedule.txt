@@ -1,0 +1,9 @@
+DSC 190 - Tools of the Trade
+Days: MWF
+Time: 11:00am - 11:50pm
+Location: PODEM 1A18
+
+DSC 80 - Practice and Application of Data Science
+Days: TuTh
+Time: 9:30am - 10:50am
+Location: PCYNH 106
