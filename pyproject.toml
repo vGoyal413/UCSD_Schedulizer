@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [
     { name = "vGoyal413", email = "vedikagoyal413@gmail.com" }
 ]   
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
     "icalendar>=7.1.2",
 ]
