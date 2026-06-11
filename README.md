@@ -24,7 +24,7 @@ Days can be any combination of: 'M','Tu','W','Th','F'
 
 ### Step 3: Run the program:
 ```bash
-schedulizer -i schedule.txt -s [start_date] -e [end_date]
+ucsd - schedulizer -i schedule.txt -s [start_date] -e [end_date]
 ```
 This will write `schedule.ics` in your current directory.
 
